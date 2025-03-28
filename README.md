@@ -16,4 +16,4 @@ I'm a software developer with a passion for creating amazing applications. I lov
 
 ## Contact
 - **Email**: [au08429@st.habib.edu.pk](mailto:au08429@st.habib.edu.pk)
-- **LinkedIn**: [Ahtishamu](https://www.linkedin.com/in/ahtisham-uddin-145462222/)
+- **LinkedIn**: [Ahtisham](https://www.linkedin.com/in/ahtisham-uddin-145462222/)
