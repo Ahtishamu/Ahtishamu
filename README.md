@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Ahtisham 👋
 
-<!--
-**Ahtishamu/Ahtishamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a software developer with a passion for creating amazing applications. I love working with new technologies and constantly improving my skills.
 
-Here are some ideas to get you started:
+## Skills
+- **Programming Languages**: JavaScript, Python, C++
+- **Frameworks**: React, Node.js, Django
+- **Tools**: Git, Docker, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Kinda busy i'll add later
+
+## GitHub Stats
+![Ahtishamu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahtishamu&show_icons=true&theme=radical)
+
+## Contact
+- **Email**: [au08429@st.habib.edu.pk](mailto:au08429@st.habib.edu.pk)
+- **LinkedIn**: [Ahtishamu](https://www.linkedin.com/in/ahtisham-uddin-145462222/)
